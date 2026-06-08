@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titre du site</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Titre du site</h1>
+    </header>
+
+    <section class="hero">
+
+        <div class="hero-content">
+
+            <h2>Évènement à la une</h2>
+
+            <p>
+                Description de l'évènement principal.
+            </p>
+
+            <a href="page1.html" class="btn">
+                En savoir plus
+            </a>
+
+        </div>
+
+    </section>
+
+    <main>
+
+        <div class="tiles">
+
+            <a href="page1.html" class="tile">
+                Page secondaire 1
+            </a>
+
+            <a href="page2.html" class="tile">
+                Page secondaire 2
+            </a>
+
+            <a href="page3.html" class="tile">
+                Page secondaire 3
+            </a>
+
+            <a href="page4.html" class="tile">
+                Page secondaire 4
+            </a>
+
+            <a href="page5.html" class="tile">
+                Page secondaire 5
+            </a>
+
+            <a href="page6.html" class="tile">
+                Page secondaire 6
+            </a>
+
+        </div>
+
+    </main>
+
+</body>
+
+</html>
