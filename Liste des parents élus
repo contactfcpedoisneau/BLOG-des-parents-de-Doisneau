@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liste des parents élus</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Composition du bureau</h1>
+</header>
+
+<main style="padding:40px; max-width:1000px; margin:auto;">
+
+    <h2>Texte</h2>
+
+    <p>
+        Contenu de la page.
+    </p>
+
+    <br>
+
+    <h2>Photo</h2>
+
+    <img
+        src="images/evenement.jpg"
+        alt="Illustration"
+        style="max-width:100%;">
+
+    <br><br>
+
+    <h2>Vidéo YouTube</h2>
+
+    <iframe
+        width="100%"
+        height="450"
+        src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+        allowfullscreen>
+    </iframe>
+
+    <br><br>
+
+    <h2>Lien externe</h2>
+
+    <a href="https://www.example.com">
+        Visiter le site
+    </a>
+
+</main>
+
+</body>
+
+</html>
