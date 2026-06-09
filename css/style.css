@@ -6,7 +6,7 @@
 
 body{
     font-family:Arial, Helvetica, sans-serif;
-    background:#dfefff;
+    background:#f5f8fc; <!-- #eef3f8 ou #f2f5f7 -->
 }
 
 header{
@@ -16,7 +16,7 @@ header{
 
     padding:15px 25px;
 
-    background:#fafafa; <!-- #f7f9fc -->
+    background:#eef3f8; 
 }
 
 header h1{
