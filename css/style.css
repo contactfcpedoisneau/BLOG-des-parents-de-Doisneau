@@ -12,7 +12,7 @@ body{
 header{
     text-align:center;
     padding:25px;
-    background:white;
+    background:yellow !important;
 }
 
 header h1{
