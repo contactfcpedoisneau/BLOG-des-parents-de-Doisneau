@@ -6,13 +6,13 @@
 
 body{
     font-family:Arial, Helvetica, sans-serif;
-    background:red !important;
+    background:#f7f9fc;
 }
 
 header{
     text-align:center;
     padding:25px;
-    background:yellow !important;
+    background:white;
 }
 
 header h1{
